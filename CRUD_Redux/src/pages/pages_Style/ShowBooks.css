@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.ShowBooksPage{
+    background-color: whitesmoke;
+    height: 100vh;
+    padding: 50px;
+}
+.ListOfBook{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    background-color: wheat;
+}
+table, th, td{
+    border: 1px solid black;
+    padding:10px;
+    
+}
+th{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    border:none;
+}
+.delete{
+    background-color: red;
+    color: white;
+}
+.edit{
+    background-color: rgba(24, 24, 238, 0.776);
+    color: white;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.Link{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: 0.5s;
+
+}
+.Link:hover{
+    color: gray;
+}
